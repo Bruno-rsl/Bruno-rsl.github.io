@@ -1,10 +1,33 @@
 h1{
-    
     font-family:Arial;
+    text-align: center;
 }
 body{
     background-color: rgb(130, 130, 255);
+    padding: 2%;
 }
-.javascript {
+ul{
     font-size: 20px;
+}
+.javascript{
+
+    font-style:italic;
+}
+div{
+    border: solid black;
+}
+.descricao{
+    font-size: 18px;
+    position: absolute;
+    top: 40%;
+    right: 30%;
+}
+#foto{
+   float: left;
+    padding: 5px ;
+    background-color: green;
+}
+.BlocoDaFoto{
+    height: 405px;
+    position: relative;
 }
